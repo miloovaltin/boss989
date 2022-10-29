@@ -1,0 +1,16 @@
+{
+"name": "boss989",
+"theme": "boss989",
+"version": "4.9.9",
+"description": "boss989 สมัครเว็บบาคาร่าเว็บตรง อันดับ 1 แจกโบนัสเครดิตฟรี",
+"keywords": [
+"boss989",
+"boss989 เครดิตฟรี",
+"boss989 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/boss989",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
